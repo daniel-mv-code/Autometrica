@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic[email]
+pydantic-settings
+mailtrap
+bcrypt
+resend
+pyjwt
+pytest
+httpx
+python-docx
